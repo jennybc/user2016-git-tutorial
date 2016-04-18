@@ -1,4 +1,4 @@
-Using Git and GitHub with R, Rstudio, and R Markdown
+Using Git and GitHub with R, RStudio, and R Markdown
 ================
 
 ##### Jenny Bryan, University of British Columbia & rOpenSci

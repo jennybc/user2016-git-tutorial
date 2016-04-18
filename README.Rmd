@@ -1,5 +1,5 @@
 ---
-title: "Using Git and GitHub with R, Rstudio, and R Markdown"
+title: "Using Git and GitHub with R, RStudio, and R Markdown"
 output: github_document
 ---
 
